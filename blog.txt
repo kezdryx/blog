@@ -1,0 +1,14 @@
+$!/usr/bin/blog
+
+int blog() {
+ \n
+* may 9th 2025 = 1:19am \n
+* \n
+* Finally using my git hub account, yay. \n
+* \n
+* I'm about to compile bar.c and see just what the hell it is. \n
+* \n
+* Now i feel like writing code again. :) \n
+\n
+return 0;
+}
